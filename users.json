@@ -1,0 +1,38 @@
+[
+    {
+        "username": "alice",
+        "password": "gAAAAABq8LCozi_zkGmBODk5ddctvanIZnHmJrv_Mh9wVlgD_MbLGARS2aPiSXmveueVXI_e8z1GsQMJbfkKI09_cR7xKw4Iig==",
+        "email": "alice@example.com",
+        "integrity_hash": "e13c2e87b7b9a24bde0b88faaa1b206f3900f1739e18e872b06cddb9e8fc0ecd"
+    },
+    {
+        "username": "bob",
+        "password": "gAAAAABq8LCos1muZpPTFT1tHY-mMCHO4xeiDS-ifGNilvQkEWr5b6gWC8vdhvXhDykNLcOHHPvOVWFPMbNTw2v9pDvIi_kRHw==",
+        "email": "bob@example.com",
+        "integrity_hash": "7eeaf6320b513c463edfd8b6f7a26f2e316b8a19dc39a92a872e540136ee665d"
+    },
+    {
+        "username": "carol",
+        "password": "gAAAAABq8LCoSLCLUkaQnLkYTa0uJgXk6xQdarzGnEoroeUh_Fivj_CSTpVjzpB0ODv5Nc83lg_XNMSrKledFrF2IYcIyTKyVQ==",
+        "email": "carol@example.com",
+        "integrity_hash": "5cefab7b8ac4cc0bcf55512ee8f3457850a613390ee8b24d1534eeea7e086eef"
+    },
+    {
+        "username": "dave",
+        "password": "gAAAAABq8LCoYSkArF3M9FLTxWO5kwGLBlOH0knw2gFrAIGvlSHau9_1YcDKBp3yYhaCPyRALyRKt7BEewXWlvJT0zmLABRqbQ==",
+        "email": "dave@example.com",
+        "integrity_hash": "d5e1839bd1aa6209847165275a6f4fc6ec13f5ffda795871ed559c0b0c7faa45"
+    },
+    {
+        "username": "eve",
+        "password": "gAAAAABq8LCoPQ7vY9_VPOMd26qgPGVrAxDIMsXqD3pKxZyLXfUxEiua09ni7qpmJf4OvFwNuoczMIAdp1YckpmlQcDxwJmuyw==",
+        "email": "eve@example.com",
+        "integrity_hash": "cc02789477fb9a2bc4889733a24a3ab8b6d7d0f4cdd8d812c65eee9f1f75ac2b"
+    },
+    {
+        "username": "n10050367",
+        "password": "gAAAAABq8LH9JqZsHJU7DAiwLNX6P5qDERD8PwoP2kwpsMV3m2nVOXUaVFke8cIr5bZxw8i1c0t19TcE_M_BxUT3UN_Xbh1Mqw==",
+        "email": "n10050367@lab1.com",
+        "integrity_hash": "4e374a5819122b27abef5f4bbdf78d5c5ed53ec862d5b7dd51357d8710bf57ce"
+    }
+]
